@@ -2,6 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 
 //Mój pierwszy commit
+//Kolejny komentarz
 
 namespace PartsUnlimited.Models
 {
